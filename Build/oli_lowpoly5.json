@@ -1,0 +1,13 @@
+{
+"companyName": "Oli",
+"productName": "Happy Birthday Amubi !",
+"dataUrl": "oli_lowpoly5.data.unityweb",
+"asmCodeUrl": "oli_lowpoly5.asm.code.unityweb",
+"asmMemoryUrl": "oli_lowpoly5.asm.memory.unityweb",
+"asmFrameworkUrl": "oli_lowpoly5.asm.framework.unityweb",
+"TOTAL_MEMORY": 318767104,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
